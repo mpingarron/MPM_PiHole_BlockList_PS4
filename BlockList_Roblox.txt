@@ -1,7 +1,10 @@
-ecsv2.roblox.com // EL RASTREADOR MÁS GRANDE. Usa muchos datos.
+# EL RASTREADOR MÁS GRANDE. Usa muchos datos:
+ecsv2.roblox.com
 ncs.roblox.com/upload
 client-telemetry.roblox.com
-// Si no te importa aparecer desconectado para los usuarios. Informa a Roblox que estás en línea.
+
+
+# Si no te importa aparecer desconectado para los usuarios. Informa a Roblox que estás en línea:
 presence.roblox.com
 dfw2-128-116-95-3.roblox.com
 ams2-128-116-21-3.roblox.com
