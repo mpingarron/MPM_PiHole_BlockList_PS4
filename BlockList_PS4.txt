@@ -51,6 +51,7 @@ sgst.prod.dl.playstation.net
 fuk01.ps4.update.playstation.net
 duk01.ps4.update.playstation.net
 fus01.ps4.update.playstation.net
+feu01.ps4.update.playstation.net
 
 # Title: ps4_dns_block/phoanglong
 #
